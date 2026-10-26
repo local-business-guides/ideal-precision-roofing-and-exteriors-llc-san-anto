@@ -27,6 +27,9 @@
 - [roofing contractor san antonio: a homeowner's guide](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/roofing-contractor-san-antonio/): Compare a roofing contractor san antonio homeowners can call for inspections, clear options, and written estimates.
 - [Metal roofing contractor San Antonio: hiring guide](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/metal-roofing-contractor-san-antonio/): Find a metal roofing contractor San Antonio property owners can consult for a roof review and a clear project estimate.
 
+## Newsroom
+- [Ideal Precision Roofing & Exteriors Shares San Antonio Roofing Guide](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/news/2026-10-26-ideal-precision-roofing-exteriors-shares-san-anton/): The San Antonio roofing company has released a guide with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-26)
+
 ## Pages
 - [Roofing Company San Antonio, TX in Texas](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/): Get clear roof options, photos, and a written estimate from a local team serving San Antonio homes and businesses. Call +1210-485-1553.
 - [About Ideal Precision Roofing & Exteriors](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/about/): About Ideal Precision Roofing & Exteriors LLC, San Antonio.
@@ -34,3 +37,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ideal-precision-roofing-and-exteriors-llc-san-anto/news/rss.xml)
